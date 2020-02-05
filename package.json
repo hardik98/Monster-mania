@@ -2,7 +2,7 @@
   "name": "demoapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/hardik98/Monster-mania",
+  "homepage": "https://hardik98.github.io/Monster-mania/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
