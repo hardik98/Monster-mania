@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hardik98/Monster-mania/static/css/main.b7def2a4.chunk.css",
-    "main.js": "/hardik98/Monster-mania/static/js/main.1a917d00.chunk.js",
-    "main.js.map": "/hardik98/Monster-mania/static/js/main.1a917d00.chunk.js.map",
-    "runtime-main.js": "/hardik98/Monster-mania/static/js/runtime-main.a790467c.js",
-    "runtime-main.js.map": "/hardik98/Monster-mania/static/js/runtime-main.a790467c.js.map",
-    "static/js/2.aa5ce928.chunk.js": "/hardik98/Monster-mania/static/js/2.aa5ce928.chunk.js",
-    "static/js/2.aa5ce928.chunk.js.map": "/hardik98/Monster-mania/static/js/2.aa5ce928.chunk.js.map",
-    "index.html": "/hardik98/Monster-mania/index.html",
-    "precache-manifest.f433305fec2fad13e0259407136405e9.js": "/hardik98/Monster-mania/precache-manifest.f433305fec2fad13e0259407136405e9.js",
-    "service-worker.js": "/hardik98/Monster-mania/service-worker.js",
-    "static/css/main.b7def2a4.chunk.css.map": "/hardik98/Monster-mania/static/css/main.b7def2a4.chunk.css.map",
-    "static/js/2.aa5ce928.chunk.js.LICENSE.txt": "/hardik98/Monster-mania/static/js/2.aa5ce928.chunk.js.LICENSE.txt"
+    "main.css": "/Monster-mania/static/css/main.b7def2a4.chunk.css",
+    "main.js": "/Monster-mania/static/js/main.407dfbbd.chunk.js",
+    "main.js.map": "/Monster-mania/static/js/main.407dfbbd.chunk.js.map",
+    "runtime-main.js": "/Monster-mania/static/js/runtime-main.8c8254a3.js",
+    "runtime-main.js.map": "/Monster-mania/static/js/runtime-main.8c8254a3.js.map",
+    "static/js/2.aa5ce928.chunk.js": "/Monster-mania/static/js/2.aa5ce928.chunk.js",
+    "static/js/2.aa5ce928.chunk.js.map": "/Monster-mania/static/js/2.aa5ce928.chunk.js.map",
+    "index.html": "/Monster-mania/index.html",
+    "precache-manifest.93d13f81a9af894da730f9781f070be8.js": "/Monster-mania/precache-manifest.93d13f81a9af894da730f9781f070be8.js",
+    "service-worker.js": "/Monster-mania/service-worker.js",
+    "static/css/main.b7def2a4.chunk.css.map": "/Monster-mania/static/css/main.b7def2a4.chunk.css.map",
+    "static/js/2.aa5ce928.chunk.js.LICENSE.txt": "/Monster-mania/static/js/2.aa5ce928.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a790467c.js",
+    "static/js/runtime-main.8c8254a3.js",
     "static/js/2.aa5ce928.chunk.js",
     "static/css/main.b7def2a4.chunk.css",
-    "static/js/main.1a917d00.chunk.js"
+    "static/js/main.407dfbbd.chunk.js"
   ]
 }
