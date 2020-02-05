@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hardik98/Monster-mania/static/css/main.4c57e57d.chunk.css",
+    "main.js": "/hardik98/Monster-mania/static/js/main.1a917d00.chunk.js",
+    "main.js.map": "/hardik98/Monster-mania/static/js/main.1a917d00.chunk.js.map",
+    "runtime-main.js": "/hardik98/Monster-mania/static/js/runtime-main.a790467c.js",
+    "runtime-main.js.map": "/hardik98/Monster-mania/static/js/runtime-main.a790467c.js.map",
+    "static/js/2.aa5ce928.chunk.js": "/hardik98/Monster-mania/static/js/2.aa5ce928.chunk.js",
+    "static/js/2.aa5ce928.chunk.js.map": "/hardik98/Monster-mania/static/js/2.aa5ce928.chunk.js.map",
+    "index.html": "/hardik98/Monster-mania/index.html",
+    "precache-manifest.7c4c179766e9ba9382a0ddd5d939c94d.js": "/hardik98/Monster-mania/precache-manifest.7c4c179766e9ba9382a0ddd5d939c94d.js",
+    "service-worker.js": "/hardik98/Monster-mania/service-worker.js",
+    "static/css/main.4c57e57d.chunk.css.map": "/hardik98/Monster-mania/static/css/main.4c57e57d.chunk.css.map",
+    "static/js/2.aa5ce928.chunk.js.LICENSE.txt": "/hardik98/Monster-mania/static/js/2.aa5ce928.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a790467c.js",
+    "static/js/2.aa5ce928.chunk.js",
+    "static/css/main.4c57e57d.chunk.css",
+    "static/js/main.1a917d00.chunk.js"
+  ]
+}
